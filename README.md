@@ -8,9 +8,9 @@ the prices of the different sizes and toppings
 
 | Size   | Price   |
 |--------|---------|
-| Small  | S$4.45  |
-| Medium | S$6.95  |
-| Large  | S$12.15 |
+| Small  | $4.45  |
+| Medium | $6.95  |
+| Large  | $12.15 |
 
 
 | Toppings      | Price |
